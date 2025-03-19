@@ -4,7 +4,12 @@ Dea Khaerunnisa - 1202220358
 Stefanus Arda Sawardi - 1202220005
 Mohammad Fahri Eka Pramudya - 1202223024
 Safrina Auriya Anantasya Agustine - 1202223197
+<<<<<<< HEAD
 Lijona - 1202223057 
 Khilyah Nafisah - 1202223304 (PM)
 
 perubahan bb
+=======
+Lijona - 1202223057
+Khilyah Nafisah - 1202223304 (PM)
+>>>>>>> 242dd159de4b0f85182c8e63eebc33f793084999
